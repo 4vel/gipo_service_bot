@@ -6,7 +6,7 @@ async def set_default_commands(dp):
         types.BotCommand("start", "Запустить Gipo"),
         types.BotCommand("help", "Помощь"),
         types.BotCommand("calculate", "Рассчитать ипотеку"),
-        # types.BotCommand("save", "Сохран-ить расчет"),
+        # types.BotCommand("save", "Сохранить расчет"),
         # types.BotCommand("show", "Показать сохраненные расчеты"),
 
     ])
